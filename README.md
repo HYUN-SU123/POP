@@ -1,3 +1,6 @@
+
+POP 생산시점관리 프로젝트
+---
 ## 📌 프로젝트 개요
 스마트 팩토리 환경에서 실시간으로 PCB 생산 데이터를 수집, 분석, 시각화하는 WPF 기반 데스크톱 애플리케이션입니다.  
 PLC, MySQL, OpenCV, YOLO 모델을 연동하여 설비의 생산성과 품질을 통합적으로 관리할 수 있도록 구현하였습니다.
@@ -96,14 +99,6 @@ POP_Project/
 - PLC – WPF – OpenCV – MySQL 간 실시간 통신 구조 구현
 - 카메라 영상에서 불량 자동 감지 성공
 - LiveCharts 기반 공장 상태 시각화 구현
-
----
-
-## 👨‍💻 개발자
-
-| 이름 | GitHub | Email |
-|------|--------|-------|
-| 유현수 | [github.com/your-id](https://github.com/HYUN-SU123) | gustn8608@naver.com |
 
 ---
 
