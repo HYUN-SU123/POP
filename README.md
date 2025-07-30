@@ -51,7 +51,13 @@ POP_Project/
 ```
 
 ## 📸 시연 화면
+---
+<img width="350" height="250" alt="시연1" src="https://github.com/user-attachments/assets/df57c7bb-0295-49c6-81ed-27b8a3a56e83" />
+<img width="350" height="250" alt="시연2" src="https://github.com/user-attachments/assets/d9e25f88-b3a9-4255-bd73-86e6b5a19370" />
+<img width="350" height="250" alt="시연3" src="https://github.com/user-attachments/assets/c165bed5-c671-4d1d-b848-d56abd424d09" />
 
+
+---
 ### 🔧 대시보드
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/05acb1d6-7cbc-45c8-9b0f-70799af99c70" />#
 
